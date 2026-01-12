@@ -278,7 +278,9 @@ STRUCTURE OF RESPONSE:
 AUDIO OUTPUT RULES:
 - Your audio output should NOT read the whole report.
 - Instead, speak as if you are sitting with the client, discussing their position and market sentiments in a professional but friendly conversational way.
-- Provide a detailed summary in Urdu audio.
+- Provide a detailed summary in Urdu audio, and create future investment plan for maximum profit.
+- PROFESSIONAL BRIEFING (Urdu summary of financials & tax).
+. PERSONAL BRIEFING (Friendly Urdu brief).
 `, [clientProfile, clientAccount, openingBalance, cdcId]);
 
   useEffect(() => {

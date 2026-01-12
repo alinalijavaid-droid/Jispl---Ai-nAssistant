@@ -16,8 +16,9 @@ export interface MenuItemConfig {
 }
 
 const menuItems: MenuItemConfig[] = [
-    { name: "PSX Terminal", url: "https://psxterminal.com/", headerHeight: 160, footerHeight: 0 },
     { name: "A.L.I.N.A - A.I." },
+    { name: "PSX Terminal", url: "https://psxterminal.com/", headerHeight: 160, footerHeight: 0 },
+
 ];
 
 const AppContent: React.FC = () => {
